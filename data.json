@@ -1,0 +1,422 @@
+[
+    {
+        "numero": 1,
+        "nombre": "Tilo común",
+        "nombre_cientifico": "Tilia europaea",
+        "descripcion": "Árbol caducifolio de tamaño mediano a grande, con hojas en forma de corazón y flores pequeñas, fragantes y de color amarillo pálido.",
+        "como_identificarlo": "Sus hojas cordadas y asimétricas, junto con flores aromáticas en verano, son distintivas.",
+        "origen": "Europa y Asia occidental.",
+        "curiosidades": [
+            "La infusión de flores de tilo es conocida por sus propiedades calmantes.",
+            "En la mitología nórdica, era considerado un árbol sagrado asociado con la protección y la justicia."
+        ]
+    },
+    {
+        "numero": 2,
+        "nombre": "Roble escarlata",
+        "nombre_cientifico": "Quercus coccinea",
+        "descripcion": "Árbol de hoja caduca con hojas lobuladas que adquieren un color rojo brillante en otoño.",
+        "como_identificarlo": "Hojas con lóbulos puntiagudos y un tono rojo intenso en otoño.",
+        "origen": "Nativo del este de América del Norte.",
+        "curiosidades": [
+            "Es muy valorado como árbol ornamental por su colorido otoñal.",
+            "Sus hojas han inspirado diseños ornamentales en diversas culturas."
+        ]
+    },
+    {
+        "numero": 3,
+        "nombre": "Abeto rojo",
+        "nombre_cientifico": "Picea abies",
+        "descripcion": "Árbol conífero alto, de forma piramidal y agujas perennes.",
+        "como_identificarlo": "Agujas cortas y puntiagudas, conos colgantes alargados.",
+        "origen": "Europa septentrional y central.",
+        "curiosidades": [
+            "Es el árbol más utilizado como árbol de Navidad en muchos países.",
+            "Su madera se usa en la fabricación de instrumentos musicales como violines y guitarras."
+        ]
+    },
+    {
+        "numero": 4,
+        "nombre": "Roble pedunculado",
+        "nombre_cientifico": "Quercus robur",
+        "descripcion": "Árbol robusto de gran tamaño con hojas lobuladas y bellotas en largos pedúnculos.",
+        "como_identificarlo": "Sus bellotas están unidas al árbol mediante pedúnculos largos y finos.",
+        "origen": "Europa y el oeste de Asia.",
+        "curiosidades": [
+            "Puede vivir más de 1,000 años, siendo símbolo de longevidad y fortaleza.",
+            "Se asociaba con los dioses del trueno como símbolo de protección divina."
+        ]
+    },
+    {
+        "numero": 5,
+        "nombre": "Castaño de Indias",
+        "nombre_cientifico": "Aesculus hippocastanum",
+        "descripcion": "Árbol grande de hojas compuestas y flores blancas con manchas rosadas o amarillas.",
+        "como_identificarlo": "Sus frutos son cápsulas espinosas que contienen semillas brillantes (castañas).",
+        "origen": "Región de los Balcanes.",
+        "curiosidades": [
+            "Sus castañas no son comestibles para los humanos, pero antiguamente se usaban como alimento para caballos.",
+            "Durante la Segunda Guerra Mundial, la harina de sus semillas se utilizó como sustituto del trigo."
+        ]
+    },
+    {
+        "numero": 6,
+        "nombre": "Cedro del Himalaya",
+        "nombre_cientifico": "Cedrus deodara",
+        "descripcion": "Conífera de gran tamaño con forma piramidal y agujas suaves de color verde-azulado.",
+        "como_identificarlo": "Por sus agujas largas y flexibles, y las ramas que cuelgan graciosamente hacia abajo.",
+        "origen": "Regiones montañosas del Himalaya.",
+        "curiosidades": [
+            "En su lugar de origen, se considera un árbol sagrado y su nombre significa 'madera de los dioses'.",
+            "En la aromaterapia, su aceite esencial se utiliza para promover la relajación y aliviar el estrés."
+        ]
+    },
+    {
+        "numero": 7,
+        "nombre": "Secuoya Roja",
+        "nombre_cientifico": "Sequoia sempervirens",
+        "descripcion": "Árbol conífero que puede alcanzar alturas extraordinarias, con corteza rojiza gruesa.",
+        "como_identificarlo": "Corteza de color rojo anaranjado, hojas planas y dispuestas en espiral.",
+        "origen": "Costa del Pacífico de América del Norte.",
+        "curiosidades": [
+            "Son los árboles más altos del mundo, llegando a superar los 100 metros de altura.",
+            "Los bosques de secuoyas crean microclimas que favorecen la biodiversidad, proporcionando refugio a muchas especies únicas."
+        ]
+    },
+    {
+        "numero": 8,
+        "nombre": "Ginkgo",
+        "nombre_cientifico": "Ginkgo biloba",
+        "descripcion": "Árbol de hoja caduca con hojas en forma de abanico que se vuelven amarillas en otoño.",
+        "como_identificarlo": "Hojas únicas en forma de abanico con nervaduras radiales.",
+        "origen": "China, considerado un fósil viviente.",
+        "curiosidades": [
+            "Es una de las especies más antiguas del planeta, habiendo existido desde la era de los dinosaurios.",
+            "Los ginkgos plantados en Hiroshima sobrevivieron al bombardeo atómico de 1945 y todavía crecen allí hoy, como símbolo de resistencia."
+        ]
+    },
+    {
+        "numero": 9,
+        "nombre": "Palmito gigante",
+        "nombre_cientifico": "Trachycarpus fortunei",
+        "descripcion": "Palmera de tronco delgado cubierto por fibras y hojas en forma de abanico.",
+        "como_identificarlo": "Tronco fibroso y hojas redondeadas con bordes divididos.",
+        "origen": "Asia oriental, especialmente China y Japón.",
+        "curiosidades": [
+            "Es muy resistente al frío, lo que la convierte en una palmera popular en climas templados.",
+            "En Japón, sus hojas se utilizan tradicionalmente para crear abanicos y sombreros debido a su resistencia."
+        ]
+    },
+    {
+        "numero": 10,
+        "nombre": "Cordiline",
+        "nombre_cientifico": "Cordyline australis",
+        "descripcion": "Árbol perenne con hojas largas y estrechas, a menudo de colores vivos.",
+        "como_identificarlo": "Sus hojas parecidas a espadas que crecen en forma de roseta.",
+        "origen": "Nueva Zelanda.",
+        "curiosidades": [
+            "En la cultura maorí, se utilizaban sus raíces como fuente de alimento.",
+            "Los maoríes consideraban sus hojas como amuletos protectores, especialmente en batallas."
+        ]
+    },
+    {
+        "numero": 11,
+        "nombre": "Palmera de Canarias",
+        "nombre_cientifico": "Phoenix canariensis",
+        "descripcion": "Palmera de gran tamaño con un tronco ancho y hojas pinnadas arqueadas.",
+        "como_identificarlo": "Sus frutos son dátiles de color naranja, y su tronco robusto es muy característico.",
+        "origen": "Islas Canarias.",
+        "curiosidades": [
+            "Se la considera un símbolo de las Islas Canarias y es ampliamente utilizada en jardines de todo el mundo.",
+            "Sus frutos, aunque no son comestibles como los dátiles comunes, se utilizaban tradicionalmente para alimentar al ganado."
+        ]
+    },
+    {
+        "numero": 12,
+        "nombre": "Falsa acacia",
+        "nombre_cientifico": "Robinia pseudoacacia",
+        "descripcion": "Árbol caducifolio con hojas compuestas de pequeños folíolos ovalados y flores blancas en racimos colgantes.",
+        "como_identificarlo": "Sus espinas en las ramas jóvenes y las flores fragantes en primavera son distintivas.",
+        "origen": "Región del este de América del Norte.",
+        "curiosidades": [
+            "A pesar de su nombre, no pertenece al género *Acacia*. Su madera es muy resistente y se utiliza en construcción y carpintería.",
+            "Sus flores son comestibles y se pueden usar para preparar mermeladas o infusiones, aunque otras partes del árbol pueden ser tóxicas."
+        ]
+    },
+    {
+        "numero": 13,
+        "nombre": "Carpe",
+        "nombre_cientifico": "Carpinus betulus",
+        "descripcion": "Árbol caducifolio con hojas dentadas y corteza lisa de color gris claro.",
+        "como_identificarlo": "Por sus hojas serradas y su característica corteza lisa, casi uniforme.",
+        "origen": "Europa y Asia occidental.",
+        "curiosidades": [
+            "Tradicionalmente se utiliza para crear setos formales en jardines y parques debido a su fácil manejo.",
+            "Su madera es muy dura y resistente, por lo que se utilizaba para fabricar engranajes de molinos y herramientas manuales."
+        ]
+    },
+    {
+        "numero": 14,
+        "nombre": "Liquidámbar",
+        "nombre_cientifico": "Liquidambar styraciflua",
+        "descripcion": "Árbol caducifolio con hojas en forma de estrella que exhibe un colorido espectacular en otoño, pasando por tonos amarillos, naranjas y rojos.",
+        "como_identificarlo": "Sus hojas lobuladas en forma de estrella y las cápsulas espinosas que produce.",
+        "origen": "América del Norte y América Central.",
+        "curiosidades": [
+            "Su savia es resinosa y aromática, utilizada antiguamente como bálsamo medicinal.",
+            "Su nombre proviene de la resina aromática que exuda, la cual se utilizó como chicle natural."
+        ]
+    },
+    {
+        "numero": 15,
+        "nombre": "Washingtonia",
+        "nombre_cientifico": "Washingtonia robusta",
+        "descripcion": "Palmera alta y esbelta con hojas en forma de abanico y un tronco marrón estrecho.",
+        "como_identificarlo": "Sus hojas de abanico y el peculiar 'saco' de hojas secas que cuelga del tronco en ejemplares no podados.",
+        "origen": "México.",
+        "curiosidades": [
+            "Es una palmera muy popular en las zonas urbanas y costeras debido a su resistencia y porte elegante.",
+            "Las hojas secas que permanecen adheridas al tronco sirven de refugio para murciélagos y aves pequeñas."
+        ]
+    },
+    {
+        "numero": 16,
+        "nombre": "Castaño de Indias rojo",
+        "nombre_cientifico": "Aesculus carnea 'Briotii'",
+        "descripcion": "Árbol caducifolio con hojas compuestas y flores en panículas de color rosado o rojo intenso.",
+        "como_identificarlo": "Por sus llamativas flores rosadas en primavera y sus frutos similares al castaño común.",
+        "origen": "Híbrido originado en Europa (cruce entre Aesculus hippocastanum y Aesculus pavia).",
+        "curiosidades": [
+            "Es ideal como árbol ornamental por sus flores vibrantes.",
+            "Es menos susceptible a plagas como la polilla de las hojas en comparación con el castaño común."
+        ]
+    },
+    {
+        "numero": 17,
+        "nombre": "Magnolio",
+        "nombre_cientifico": "Magnolia grandiflora",
+        "descripcion": "Árbol perennifolio con grandes hojas coriáceas y flores blancas de gran tamaño y fragancia intensa.",
+        "como_identificarlo": "Por sus enormes flores blancas y hojas con el reverso marrón.",
+        "origen": "Sureste de Estados Unidos.",
+        "curiosidades": [
+            "Sus flores son símbolo de la hospitalidad en el sur de Estados Unidos.",
+            "La madera del magnolio es apreciada en carpintería para muebles y chapas decorativas."
+        ]
+    },
+    {
+        "numero": 18,
+        "nombre": "Laurel cerezo",
+        "nombre_cientifico": "Prunus laurocerasus",
+        "descripcion": "Arbusto o árbol pequeño de hojas brillantes, ovaladas y flores blancas en racimos verticales.",
+        "como_identificarlo": "Sus hojas de color verde oscuro, coriáceas y brillantes.",
+        "origen": "Región del Cáucaso y Asia Menor.",
+        "curiosidades": [
+            "A pesar de su nombre, no está relacionado con el laurel culinario.",
+            "Sus frutos contienen compuestos tóxicos, pero en la antigüedad sus hojas se usaban para aromatizar alimentos."
+        ]
+    },
+    {
+        "numero": 19,
+        "nombre": "Ciprés de Arizona",
+        "nombre_cientifico": "Cupressus arizonica",
+        "descripcion": "Conífera de tamaño mediano con hojas escamosas de color verde azulado y un tronco con corteza escamosa.",
+        "como_identificarlo": "Por su distintivo color azul plateado y su follaje denso en forma de pirámide.",
+        "origen": "Suroeste de los Estados Unidos y norte de México.",
+        "curiosidades": [
+            "Es muy resistente a la sequía y a menudo se utiliza como cortavientos en zonas áridas.",
+            "Su madera tiene un aroma agradable y se usa en la fabricación de lápices."
+        ]
+    },
+    {
+        "numero": 20,
+        "nombre": "Arce real",
+        "nombre_cientifico": "Acer platanoides",
+        "descripcion": "Árbol caducifolio de copa densa y hojas palmeadas con cinco lóbulos principales.",
+        "como_identificarlo": "Sus hojas grandes y su savia lechosa al cortar el pecíolo.",
+        "origen": "Europa y Asia occidental.",
+        "curiosidades": [
+            "Su madera es muy utilizada para fabricar instrumentos musicales como guitarras y violines.",
+            "Aunque no produce jarabe como el arce azucarero, sus semillas en forma de hélice son características."
+        ]
+    },
+    {
+        "numero": 21,
+        "nombre": "Tejo",
+        "nombre_cientifico": "Taxus baccata",
+        "descripcion": "Árbol perennifolio con hojas lineales de color verde oscuro y frutos rojos carnosos llamados arilos.",
+        "como_identificarlo": "Por su denso follaje verde oscuro y los frutos rojos brillantes que producen las hembras.",
+        "origen": "Europa, el norte de África y el suroeste de Asia.",
+        "curiosidades": [
+            "Puede vivir miles de años y se le considera un símbolo de inmortalidad y renovación.",
+            "En la Edad Media, el veneno extraído de sus hojas y semillas se utilizaba para envenenar flechas."
+        ]
+    },
+    {
+        "numero": 22,
+        "nombre": "Ciruelo de Japón",
+        "nombre_cientifico": "Prunus cerasifera 'Pisardii'",
+        "descripcion": "Árbol pequeño con hojas púrpura oscuro y flores rosadas que aparecen a comienzos de la primavera.",
+        "como_identificarlo": "Por el contraste entre sus hojas de color púrpura oscuro y sus pequeñas flores rosadas.",
+        "origen": "Asia occidental y el Cáucaso.",
+        "curiosidades": [
+            "Es uno de los primeros árboles en florecer en primavera, incluso antes de que salgan sus hojas.",
+            "A menudo se utiliza como árbol ornamental debido a su atractivo follaje y flores."
+        ]
+    },
+    {
+        "numero": 23,
+        "nombre": "Aligustre del Japón",
+        "nombre_cientifico": "Ligustrum japonicum",
+        "descripcion": "Arbusto o pequeño árbol perennifolio con hojas verdes brillantes y racimos de flores blancas.",
+        "como_identificarlo": "Por sus hojas coriáceas y racimos de pequeñas flores fragantes.",
+        "origen": "Japón y Corea.",
+        "curiosidades": [
+            "Su rápido crecimiento y denso follaje lo convierten en una opción popular para setos y barreras visuales.",
+            "Sus frutos sirven de alimento para aves, aunque son tóxicos para los humanos."
+        ]
+    },
+    {
+        "numero": 24,
+        "nombre": "Cedro del Atlas",
+        "nombre_cientifico": "Cedrus atlantica",
+        "descripcion": "Conífera de gran tamaño con un perfil cónico en su juventud y más extendido en la madurez.",
+        "como_identificarlo": "Agujas cortas de color verde-azulado y conos erguidos.",
+        "origen": "Montañas del Atlas en Marruecos y Argelia.",
+        "curiosidades": [
+            "Es muy resistente a la sequía y su madera se utiliza para muebles y construcción.",
+            "Su hábitat proporciona refugio a especies en peligro de extinción."
+        ]
+    },
+    {
+        "numero": 25,
+        "nombre": "Plátano oriental",
+        "nombre_cientifico": "Platanus orientalis",
+        "descripcion": "Árbol caducifolio de gran tamaño con hojas palmeadas y corteza que se desprende en placas.",
+        "como_identificarlo": "Hojas grandes con lóbulos pronunciados y su característica corteza que revela manchas de colores claros.",
+        "origen": "Europa meridional y Asia occidental.",
+        "curiosidades": [
+            "Era considerado sagrado en la Antigua Grecia, asociado con la sombra y la longevidad.",
+            "En la Antigua Roma, se plantaba en villas como símbolo de estatus."
+        ]
+    },
+    {
+        "numero": 26,
+        "nombre": "Abedul",
+        "nombre_cientifico": "Betula pendula",
+        "descripcion": "Árbol caducifolio con corteza blanca distintiva y hojas en forma de rombo.",
+        "como_identificarlo": "Por su corteza blanca y ramas finas que cuelgan graciosamente.",
+        "origen": "Europa, Asia y partes de África del Norte.",
+        "curiosidades": [
+            "Su savia puede ser utilizada para producir bebidas y jarabes.",
+            "En Escandinavia, las ramas de abedul se usan en saunas para estimular la circulación."
+        ]
+    },
+    {
+        "numero": 27,
+        "nombre": "Secuoya gigante",
+        "nombre_cientifico": "Sequoiadendron giganteum",
+        "descripcion": "Árbol conífero masivo, conocido por ser uno de los organismos vivos más grandes del planeta.",
+        "como_identificarlo": "Su corteza roja y gruesa y su impresionante tamaño.",
+        "origen": "Sierra Nevada, California, EE.UU.",
+        "curiosidades": [
+            "Aunque no son los árboles más altos, son los más voluminosos por masa.",
+            "Su corteza es resistente al fuego, lo que les permite sobrevivir a incendios forestales."
+        ]
+    },
+    {
+        "numero": 28,
+        "nombre": "Sauce llorón",
+        "nombre_cientifico": "Salix babylonica",
+        "descripcion": "Árbol caducifolio con ramas largas y colgantes, y hojas estrechas de color verde pálido.",
+        "como_identificarlo": "Por su forma característica con ramas que caen hacia el suelo.",
+        "origen": "Asia, especialmente China.",
+        "curiosidades": [
+            "Es símbolo de tristeza en diversas culturas, pero también representa la resiliencia.",
+            "A menudo se planta cerca de fuentes de agua, ya que prospera en suelos húmedos."
+        ]
+    },
+    {
+        "numero": 29,
+        "nombre": "Acacia de Constantinopla",
+        "nombre_cientifico": "Albizia julibrissin",
+        "descripcion": "Árbol caducifolio de copa ancha y aplanada, con flores rosadas en forma de pompones sedosos.",
+        "como_identificarlo": "Por sus flores delicadas y hojas compuestas y finamente divididas.",
+        "origen": "Asia occidental y oriental.",
+        "curiosidades": [
+            "Sus flores atraen a mariposas y abejas, y también se le llama 'árbol de la seda'.",
+            "El néctar de sus flores se utiliza en algunas regiones para hacer bebidas dulces."
+        ]
+    },
+    {
+        "numero": 30,
+        "nombre": "Acebo",
+        "nombre_cientifico": "Ilex aquifolium",
+        "descripcion": "Arbusto o árbol pequeño perennifolio con hojas brillantes y espinosas, y bayas rojas.",
+        "como_identificarlo": "Por sus hojas de bordes espinosos y sus frutos rojos característicos en invierno.",
+        "origen": "Europa, el norte de África y el oeste de Asia.",
+        "curiosidades": [
+            "Es símbolo tradicional de la Navidad y se asocia con la buena suerte.",
+            "En la tradición celta, se creía que protegía contra espíritus malignos."
+        ]
+    },
+    {
+        "numero": 31,
+        "nombre": "Encina",
+        "nombre_cientifico": "Quercus ilex",
+        "descripcion": "Árbol perennifolio de hojas coriáceas, verdes oscuras por arriba y blanquecinas por debajo.",
+        "como_identificarlo": "Sus hojas pequeñas y coriáceas y las bellotas que produce.",
+        "origen": "Región mediterránea.",
+        "curiosidades": [
+            "Es muy resistente a la sequía y sus bellotas son alimento para el ganado, especialmente para los cerdos ibéricos.",
+            "En la época medieval, la madera de la encina era altamente valorada para la construcción de barcos y herramientas."
+        ]
+    },
+    {
+        "numero": 32,
+        "nombre": "Haya llorona",
+        "nombre_cientifico": "Fagus sylvatica var. pendula",
+        "descripcion": "Árbol caducifolio con ramas colgantes y hojas ovaladas de color verde brillante.",
+        "como_identificarlo": "Por su distintiva forma llorona y su corteza lisa y grisácea.",
+        "origen": "Europa.",
+        "curiosidades": [
+            "A menudo se cultiva como árbol ornamental en parques por su forma única y elegante.",
+            "Se planta en cementerios y jardines conmemorativos debido a su apariencia melancólica y solemne."
+        ]
+    },
+    {
+        "numero": 33,
+        "nombre": "Roble palustre",
+        "nombre_cientifico": "Quercus palustris",
+        "descripcion": "Árbol caducifolio de tamaño mediano con hojas lobuladas y un colorido otoñal brillante.",
+        "como_identificarlo": "Hojas profundamente lobuladas y ramas inferiores que tienden a inclinarse hacia abajo.",
+        "origen": "América del Norte.",
+        "curiosidades": [
+            "Su nombre proviene de su preferencia por terrenos húmedos y pantanosos.",
+            "Tiene una notable capacidad para sobrevivir en suelos inundados gracias a un sistema de raíces adaptado a la falta de oxígeno."
+        ]
+    },
+    {
+        "numero": 34,
+        "nombre": "Zumaque de Virginia",
+        "nombre_cientifico": "Rhus typhina",
+        "descripcion": "Arbusto o pequeño árbol caducifolio con hojas compuestas y frutos en forma de racimos rojos densos.",
+        "como_identificarlo": "Por sus hojas pinnadas y los racimos de frutos de color rojo oscuro.",
+        "origen": "América del Norte.",
+        "curiosidades": [
+            "Los frutos secos del zumaque se utilizan para hacer una bebida cítrica similar a la limonada.",
+            "Las ramas del zumaque se han utilizado para fabricar pipas de fumar tradicionales en algunas culturas nativas americanas."
+        ]
+    },
+    {
+        "numero": 35,
+        "nombre": "Magnolia tulipán",
+        "nombre_cientifico": "Magnolia liliiflora",
+        "descripcion": "Arbusto o pequeño árbol caducifolio con flores grandes y fragantes de tonos rosados o púrpuras.",
+        "como_identificarlo": "Por sus flores llamativas en forma de tulipán que aparecen en primavera.",
+        "origen": "China.",
+        "curiosidades": [
+            "También se conoce como 'magnolia de lirio' debido a la forma de sus flores.",
+            "En el Feng Shui, se planta cerca de entradas de casas para atraer buena suerte y armonía."
+        ]
+    }
+]
